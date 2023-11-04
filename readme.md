@@ -3,9 +3,7 @@
 <img align="left" src="https://cdn.discordapp.com/attachments/1170025747872751736/1170390773636812800/Profile3.png" width="189"/>
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=x2-Neptune&theme=algolia&hide_border=false&include_all_commits=true&count_private=false"/>
-
-</br>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=x2-Neptune&theme=algolia&hide_border=false&include_all_commits=true&count_private=false"/>
 
 ```py
 Name : x2Neptune
