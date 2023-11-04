@@ -15,7 +15,4 @@ Main Development : {
   "Slayerz UI": "Free Ui Library that support PC / Mobile will stable!"
 }
 ```
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=x2-Neptune&theme=algolia&hide_border=false&include_all_commits=true&count_private=false"/>
-
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=x2-Neptune&theme=algolia&hide_border=false" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=x2-Neptune&theme=algolia&hide_border=false" whild/>
