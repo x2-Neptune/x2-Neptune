@@ -1,3 +1,5 @@
+<img align="left" src="https://cdn.discordapp.com/attachments/1170025747872751736/1170390944063959110/N.png" width="189"/>
+<img align="left" src="https://cdn.discordapp.com/attachments/1170025747872751736/1170390773636812800/Profile3.png" width="189"/>
 ```py
 Name : x2Neptune
 Discord": 710731327611207692
