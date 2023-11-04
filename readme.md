@@ -3,7 +3,8 @@ Name : x2Neptune
 Discord": 710731327611207692
 Development : Alchemy Hub, Crazzy Hub, Phoenix Hub
 Code : Lua, Py, Html, Js, Node
-Main Development / Project : {
+Ability : Coding , Bypass , Decoder , Design
+Main Development : {
   "Alchemy Hub": "Free Script Hub support PC / Mobile with high quality",
   "Slayerz UI": "Free Ui Library that support PC / Mobile will stable!"
 }
