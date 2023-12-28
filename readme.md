@@ -4,7 +4,7 @@
 ```py
 Name : "x2Neptune"
 Discord": 710731327611207692
-Development : Alchemy Hub, Crazzy Hub, Phoenix Hub
+Development : Alchemy Hub, Crazzy Hub, LunarZ Hub, Star Hub
 Code : Lua, Py, Html, Js, Node
 Ability : Coding , Bypass , Decoder , Design
 Main Development : {
